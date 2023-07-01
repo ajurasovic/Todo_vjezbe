@@ -1,0 +1,13 @@
+.todoList {
+  list-style-type: none;
+}
+
+.todoList li.done {
+  text-decoration: line-through;
+}
+
+.removeButton {
+  background: greenyellow;
+  display: inline-block;
+  margin-left: 5px;
+}

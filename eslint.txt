@@ -1,0 +1,23 @@
+1. instalirati u VS code https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+2. u konzoli pokrenuti npm init
+3. ako niste sigurni/nemate preferencije, na tim koracima pritisnite enter
+4. u konzoli pokrenuti npm init @eslint/config. odabrati opcije kao u dijelu KORACI za ESLint. Odabirete polja strelicama i enterom
+5. Aktivirati će se ESLint unutar VS Code i možete vidjeti grešku u kodu
+   za eventualne popravke u VS Code, pritisnuti ctrl + .
+
+:::::::::::::::
+KORACI za ESLint:
+
+How would you like to use ESLint? · problems
+√ What type of modules does your project use? · esm
+√ Which framework does your project use? · none
+√ Does your project use TypeScript? · No / Yes
+√ Where does your code run? · browser, node
+√ What format do you want your config file to be in? · JSON
+Local ESLint installation not found.
+The config that you've selected requires the following dependencies:
+
+eslint@latest
+√ Would you like to install them now? · No / Yes
+√ Which package manager do you want to use? · npm
+Installing eslint@latest
